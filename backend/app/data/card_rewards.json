@@ -1,0 +1,50 @@
+{
+    "cards": [
+        {
+            "id": "chase-sapphire-reserve",
+            "name": "Chase Sapphire Reserve",
+            "issuer": "Chase",
+            "rewards": {
+                "dining": 3.0,
+                "travel": 3.0,
+                "other": 1.0
+            },
+            "reward_type": "points",
+            "annual_fee": 550.0,
+            "foreign_transaction_fee": 0.0,
+            "sign_up_bonus": "60,000 points after spending $4,000 in first 3 months"
+        },
+        {
+            "id": "amex-gold",
+            "name": "American Express Gold Card",
+            "issuer": "American Express",
+            "rewards": {
+                "dining": 4.0,
+                "groceries": 4.0,
+                "travel": 3.0,
+                "other": 1.0
+            },
+            "reward_type": "points",
+            "annual_fee": 250.0,
+            "foreign_transaction_fee": 0.0,
+            "sign_up_bonus": "60,000 points after spending $4,000 in first 6 months"
+        },
+        {
+            "id": "citi-double-cash",
+            "name": "Citi Double Cash",
+            "issuer": "Citibank",
+            "rewards": {
+                "dining": 2.0,
+                "travel": 2.0,
+                "groceries": 2.0,
+                "gas": 2.0,
+                "entertainment": 2.0,
+                "online_shopping": 2.0,
+                "other": 2.0
+            },
+            "reward_type": "cashback",
+            "annual_fee": 0.0,
+            "foreign_transaction_fee": 3.0
+        }
+    ]
+} 
